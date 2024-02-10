@@ -1,4 +1,4 @@
-![header](img/header.png)
+[![header](img/header.png)](https://github.com/prok0l)
 
 # :wave: Hey, welcome to my GitHub page!
 
