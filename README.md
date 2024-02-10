@@ -1,3 +1,5 @@
+![header](img/header.png)
+
 # :wave: Hey, welcome to my GitHub page!
 
 ## Skills 📕
